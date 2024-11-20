@@ -5,10 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- it this for keep knowledge of learn and study in lab of hackthebox
-- my name is patjira
-- I want to improve myself for better in every days
-- this note what I learn and this will be useful for me in the future 
+
 
 <!---
 patjira01/patjira01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
